@@ -1,0 +1,10 @@
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\CarroselPag.csprojAssemblyReference.cache
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\TipoPagina\Carrosel\IntroducaoApp.xaml.g.cs
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\TipoPagina\Carrosel\P1.xaml.g.cs
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\TipoPagina\Carrosel\P2.xaml.g.cs
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\TipoPagina\Carrosel\P3.xaml.g.cs
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\CarroselPag.AssemblyInfoInputs.cache
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\CarroselPag.AssemblyInfo.cs
+C:\Users\renatolacerda\source\repos\CarroselPages\CarroselPages\CarroselPages\obj\Debug\netstandard2.0\CarroselPag.csproj.CoreCompileInputs.cache
